@@ -1,4 +1,5 @@
 {
   "prHourlyLimit": 10,
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "ignorePrAuthor": true
 }
